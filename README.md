@@ -18,3 +18,5 @@ maven{ url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'}
 - tcp/ip详解-卷1(pdf)
 - 操作系统导论(多看app)
 - 代码整洁之道(多看app)
+
+4. https加密传输过程 https://www.cnblogs.com/WindrunnerMax/archive/2020/03/27/12580585.html
